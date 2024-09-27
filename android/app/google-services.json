@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685765727128",
+    "project_id": "flutter-firebase-project-221b8",
+    "storage_bucket": "flutter-firebase-project-221b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685765727128:android:44ca3eec7e1eeafa4111ed",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrbC5Dh-xSm6N8ZTbcOVk1Aci-toGKdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
